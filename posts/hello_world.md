@@ -7,7 +7,7 @@ disable_html_sanitization: true
 This is my first blog post!
 <iframe width="576" height="366" src="https://editor.p5js.org/VuLQW/full/rSgtyXaV0"></iframe>
   
-'''
+```javascript
 let snowflakes = []; // array to hold snowflake objects
 
 function setup() { // runs once at the start
