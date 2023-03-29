@@ -31,7 +31,7 @@ let word = function(){
                      // the blue value = 255
   fill(1) // colour of text is the shade of 1 which is black
   // the text shows 'RMIT Creative Coding Specialisation'
-  //The x position is 30 pixels on the x axis
+  //The x position of text is 30 pixels on the x axis
   // The y position of text is 30 pixels towards the y-axis
   text('RMIT Creative Coding Specialisation', 30, 30);
   
@@ -52,7 +52,7 @@ function draw() { //repeatedly draws after reference
                           // every 10th of a frame count
                           // the object finishes its animation
 
-  // creates random number of snowflakes
+  // creates random number of objects
   // defining i as the number 0
   // so if i is less than numbers random numbers of 0 to 5
   // add 2 towards i 
@@ -135,6 +135,11 @@ function snowflake() {
   // THE SIZE OF THE CIRCLE IS ALSO RANDOMLY GENERATED
   // SIZE IS RANDOMLY GENERATED BECAUSE OF THIS.SIZE
   };
+
+}
+
+
+
 
 }
 
