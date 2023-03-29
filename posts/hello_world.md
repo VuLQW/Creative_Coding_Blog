@@ -8,6 +8,10 @@ This is my first blog post!
 <iframe width="576" height="366" src="https://editor.p5js.org/VuLQW/full/rSgtyXaV0"></iframe>
 
 The sketch was inspired by [Sketch 1](https://p5js.org/examples/simulate-snowflakes.html).
+The goal here was to follow the same structure as the original snow flake sketch,
+however, I wanted to make the objects spin faster. This is to create the illusion that 
+they're circling something in the middle even though there is nothing.
+I also changed the colours and outline weight to stray away from the snowflake example.
 
 ```javascript
 let snowflakes = []; // array to hold snowflake objects
