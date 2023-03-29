@@ -5,5 +5,5 @@ disable_html_sanitization: true
 ---
 
 This is my first blog post!
-<iframe src="https://editor.p5js.org/VuLQW/full/rSgtyXaV0"></iframe>
+<iframe width="560" height="315" src="https://editor.p5js.org/VuLQW/full/rSgtyXaV0"></iframe>
 there should by sketch above
