@@ -6,7 +6,8 @@ disable_html_sanitization: true
 # heading 1
 This is my first blog post!
 <iframe width="576" height="366" src="https://editor.p5js.org/VuLQW/full/rSgtyXaV0"></iframe>
-  
+The sketch was inspired by [Sketch 1](https://p5js.org/examples/simulate-snowflakes.html)
+
 ```javascript
 let snowflakes = []; // array to hold snowflake objects
 
