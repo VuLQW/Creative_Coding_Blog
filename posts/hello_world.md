@@ -278,12 +278,8 @@ function snowflake() {
   // THE SIZE OF THE CIRCLE IS ALSO RANDOMLY GENERATED
   // SIZE IS RANDOMLY GENERATED BECAUSE OF THIS.SIZE
   };
-
 }
+```
 
-
-
-
-}
 
 
