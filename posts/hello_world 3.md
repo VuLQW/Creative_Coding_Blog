@@ -11,6 +11,7 @@ The falling animation was interesting it was very basic. I changed up the values
 its overall position. The speed is also increased so that it looks like its trying to fly somewhere. 
 The shapes was changed and the colour was randomised to so that it felt sharped and it somewhat blended with the background.
 I also made the outline red to give contrast and gave the falling objects a range complement the random change in colour. 
+
 ```javascript
 let t = 0; // declaring the time variable which is t
            // t is takes in the value of 0
