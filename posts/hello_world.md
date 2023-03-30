@@ -1,6 +1,6 @@
 ---
-title: Hello world!
-publish_date: 2023-03-05
+title: First Blog
+publish_date: 31/03/2023
 disable_html_sanitization: true
 ---
 # 1st Blog
