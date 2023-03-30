@@ -10,7 +10,7 @@ blog({
   // footer: <footer>Your custom footer</footer>,
   avatar: "https://deno-avatar.deno.dev/avatar/blog.svg",
   avatarClass: "rounded-full",
-  author: "An author",
+  author: "Vu",
 
   // middlewares: [
 
