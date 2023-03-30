@@ -1,12 +1,13 @@
 ---
-title: Third Blog
+title: 1st Blog
 publish_date: 31/03/2023
 disable_html_sanitization: true
 ---
-# 3rd Blog
+# 1st Blog
+
 <iframe width="576" height="366" src="https://editor.p5js.org/VuLQW/full/5CBwSA5Uj"></iframe>
 
-The sketch was inspired by [Sketch 1](https://p5js.org/examples/interaction-wavemaker.html). 
+The sketch was inspired by [interaction wave maker](https://p5js.org/examples/interaction-wavemaker.html). 
 The falling animation was interesting it was very basic. I changed up the values of the vectors and 
 its overall position. The speed is also increased so that it looks like its trying to fly somewhere. 
 The shapes was changed and the colour was randomised to so that it felt sharped and it somewhat blended with the background.
