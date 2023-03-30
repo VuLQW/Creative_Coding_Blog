@@ -1,5 +1,5 @@
 ---
-title: 1st Blog
+title: First Blog
 publish_date: 31/03/2023
 disable_html_sanitization: true
 ---
@@ -8,10 +8,12 @@ disable_html_sanitization: true
 <iframe width="576" height="366" src="https://editor.p5js.org/VuLQW/full/5CBwSA5Uj"></iframe>
 
 The sketch was inspired by [interaction wave maker](https://p5js.org/examples/interaction-wavemaker.html). 
-The falling animation was interesting it was very basic. I changed up the values of the vectors and 
-its overall position. The speed is also increased so that it looks like its trying to fly somewhere. 
-The shapes was changed and the colour was randomised to so that it felt sharped and it somewhat blended with the background.
-I also made the outline red to give contrast and gave the falling objects a range complement the random change in colour. 
+I wanted to keep things sharp with this sketch and keep the animations proportionate. To achieve this I decided to create squares
+than to keep circles. It thought it would be interesting to incorporate a sharp square and make multiple make a flowing and 
+wavy like pattern. Outlines were added to further highlight the trail with a little touch of purple to break the black and white 
+aesthetic. The waves moves in accordance to the position of the mouse where keeping the mouse off the canvas will enable the squares 
+to flow by itself. The frames switch to 30fps on the canvas when the mouse doesn't hover. I did this so the trails and actual pattern
+of the squares could be emphasised instead of having the sketch go by really quick. 
 
 ```javascript
 let t = 0; // declaring the time variable which is t
