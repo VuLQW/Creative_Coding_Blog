@@ -6,8 +6,8 @@ disable_html_sanitization: true
 # 3rd Blog
 <iframe width="576" height="366" src="https://editor.p5js.org/VuLQW/full/xNkGePPg0"></iframe>
 
-The sketch was inspired by [Sketch 1](https://p5js.org/examples/simulate-particle-system.html). 
-The falling animation was interesting it was very basic. I changed up the values of the vectors and 
+The sketch was inspired by [particle system](https://p5js.org/examples/simulate-particle-system.html). 
+The falling animation was interesting but was very basic. I changed up the values of the vectors and 
 its overall position. The speed is also increased so that it looks like its trying to fly somewhere. 
 The shapes was changed and the colour was randomised to so that it felt sharped and it somewhat blended with the background.
 I also made the outline red to give contrast and gave the falling objects a range complement the random change in colour. 
