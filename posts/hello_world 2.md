@@ -6,7 +6,7 @@ disable_html_sanitization: true
 
 # 2nd Blog
 
-<iframe width="576" height="366" src="https://editor.p5js.org/VuLQW/full/rSgtyXaV0"></iframe>
+<iframe width="576" height="366" src="https://editor.p5js.org/VuLQW/full/OhYNZ6l7HN"></iframe>
 
 The sketch was inspired by [snowflakes](https://p5js.org/examples/simulate-snowflakes.html).
 The goal here was to follow the same structure as the original snow flake sketch,
