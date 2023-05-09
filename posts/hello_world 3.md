@@ -7,7 +7,7 @@ abstract: wegnweogb
 
 # 3rd blog
 
-<iframe width="576" height="366" src="https://editor.p5js.org/VuLQW/full/5CBwSA5Uj"></iframe>
+<iframe width="576" height="366"src="https://editor.p5js.org/VuLQW/full/i_tECfzg0"></iframe>
 
 The sketch was inspired by [interaction wave maker](https://p5js.org/examples/interaction-wavemaker.html). 
 I wanted to keep things sharp with this sketch and keep the animations proportionate. To achieve this I decided to create squares
