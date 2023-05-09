@@ -10,12 +10,7 @@ abstract: wegnweogb
 <iframe width="576" height="366"src="https://editor.p5js.org/VuLQW/full/i_tECfzg0"></iframe>
 
 The sketch was inspired by [interaction wave maker](https://p5js.org/examples/interaction-wavemaker.html). 
-I wanted to keep things sharp with this sketch and keep the animations proportionate. To achieve this I decided to create squares
-than to keep circles. It thought it would be interesting to incorporate a sharp square and make multiple make a flowing and 
-wavy like pattern. Outlines were added to further highlight the trail with a little touch of purple to break the black and white 
-aesthetic. The waves moves in accordance to the position of the mouse where keeping the mouse off the canvas will enable the squares 
-to flow by itself. The frames switch to 30fps on the canvas when the mouse doesn't hover. I did this so the trails and actual pattern
-of the squares could be emphasised instead of having the sketch go by really quick. 
+Just like this one I decided to create an overwhelming amount of elements so that it seems like there is alot going on. This ties in well with the snowflake sketch on my other blog which compliments the overall sketch. 
 
 ```javascript
 let t = 0; // time variable
