@@ -2,6 +2,7 @@
 title: Second Blog
 publish_date: 31/03/2023
 disable_html_sanitization: true
+abstract: wgowgi
 ---
 
 # 2nd Blog
