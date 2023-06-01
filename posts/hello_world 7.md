@@ -1,10 +1,10 @@
 ---
-title: sixth blog 
-publish_date: 11/05/2023
+title: Seventh blog 
+publish_date: 21/05/2023
 disable_html_sanitization: true
 ---
 
-# 6th blog
-<img src="images/square.PNG"></img> 
+# 7th blog
 
-Sparked with the idea of using water as a way to keep gamers hydrated, I came across this [reddit feed](https://www.reddit.com/r/pathofexile/comments/kxcunc/raising_awareness_of_staying_hydrated_while_gaming/) created by pathofexile who talks about the importance of drinking water. Many people replied to his feed, expanding on the suggestions, offering more suggestions and joking around as well. 
+
+My original plan was to create a discord bot which would record the dcbs of the user in which passing a certain threshold would notify them to calm down. This was one of the [codes](https://stackoverflow.com/questions/28123525/how-do-you-get-the-decibel-level-of-an-audio-in-javascript) I messed around with to become familiar on how everything works. However, due permission and security reasons I had to drop the idea
