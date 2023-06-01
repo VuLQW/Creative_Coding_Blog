@@ -1,10 +1,10 @@
 ---
-title: sixth blog 
-publish_date: 11/05/2023
+title: Ninth blog 
+publish_date: 23/05/2023
 disable_html_sanitization: true
 ---
 
-# 6th blog
-<img src="images/square.PNG"></img> 
+# 9th blog
 
-The inspiration came from the art [Levy Flight](https://qianqian-ye.com/Everyday/Day13/) by Qianqian Ye as well. The randomness and the trail the squares left was nice and fun to use. I liked the way the squares were together creating a chaotic environment which I wanted to also add to my own art. However, I stumbled across the issue where making the squares too big would make the art confusing rather than interesting. I decided to decrease the size of my squares as well as rounding it to keep things polished. 
+
+After seeing the previous reddit feed on blog 8, I wanted to see the bigger picture around gaming and feeling burnt out. This [reddit feed](https://www.reddit.com/r/pcgaming/comments/imz6r8/gaming_burnout/) focusses more on the feeling of burning out which is a bit different to the water break reddit post on blog 8. Since I wanted to appeal to my community and their drinking habits, I wanted to see what other suggestions people had about the feeling of burning out and what they recommend to do. 
